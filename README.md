@@ -1,35 +1,26 @@
-
-Personal profile and curated tech interests.
 # Hi, I'm Emin 🐧
-
 **System Enthusiast | Linux User | Tech Curator**
 
-I don't write the code, but I break, fix, and optimize the hell out of it. 
-Focused on performance, minimalism, and brutal efficiency.
+Focused on performance, minimalism, and digital efficiency. I explore system internals and prioritize functional, de-bloated environments.
 
 ---
 
 ### 💻 Current Setup
-* **OS:** [CachyOS](https://cachyos.org/) (Arch-based)
-* **DE:** KDE Plasma (Customized)
-  * **Hardware:** Asus Zenbook 14 (Ryzen 5 5500U | 8GB RAM)
+- **OS:** CachyOS 
+- **DE:** KDE Plasma
+- **Hardware:** Asus Zenbook 14 (Ryzen 5 5500U | 8GB RAM)
 
 ### 📱 Mobile Optimization
-* **Device:** Redmi Note 10S
-* **ROM:** [LineageOS](https://lineageos.org/)
-* **Philosophy:** De-bloated, privacy-focused, and high performance.
+- **Device:** Redmi Note 10S
+- **ROM:** LineageOS 
+-  **Interface:** Niagara Launcher
 
-### 🛠️ My Digital Toolkit (What I Use)
-* **Browser:** Brave 
-* **Terminal:** Alacritty / Konsole
-* **Editor:** Micro / Neovim (for config editing)
-* **Music:** FLAC via local players or Spotify
+- **Philosophy:** De-bloated, privacy-focused, and high performance.
 
-### 📊 Stats & Interests
-* **Music:** 2000s Reggaeton & Metal
-* **Anime/Manga:** Vagabond, Bleach
-* **Sports:** Houston Rockets (Alperen Şengün)
-* **Education:** Political Science Graduate
+### 📊 Context & Interests
+- **Technical:** Custom ROMs, Kernel Optimization, Minimalist UI.
+- **Media:** 2000s Reggaeton & Metal | *Vagabond*, *Bleach*.
+- **Sports:** Houston Rockets (Alperen Şengün).
+- **Education:** Political Science Graduate.
 
----
-*"Brutally honest, technically driven."*
+"Technically driven, logically focused."
