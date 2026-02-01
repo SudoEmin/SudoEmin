@@ -12,8 +12,7 @@ Focused on performance, minimalism, and brutal efficiency.
 ### 💻 Current Setup
 * **OS:** [CachyOS](https://cachyos.org/) (Arch-based)
 * **DE:** KDE Plasma (Customized)
-* **Shell:** Fish + Starship Prompt
-* **Hardware:** Asus Zenbook 14 (Ryzen 5 5500U | 8GB RAM)
+  * **Hardware:** Asus Zenbook 14 (Ryzen 5 5500U | 8GB RAM)
 
 ### 📱 Mobile Optimization
 * **Device:** Redmi Note 10S
