@@ -1,4 +1,4 @@
-# SudoEmin
+
 Personal profile and curated tech interests.
 # Hi, I'm Emin 🐧
 
