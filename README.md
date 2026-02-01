@@ -23,4 +23,4 @@ Focused on performance, minimalism, and digital efficiency. I explore system int
 - **Sports:** Houston Rockets (Alperen Şengün).
 - **Education:** Political Science Graduate.
 
-"Technically driven, logically focused."
+"Root Access to Truth."
